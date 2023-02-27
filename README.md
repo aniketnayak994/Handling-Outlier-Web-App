@@ -2,6 +2,7 @@
 _______________________________________________________________________________________________
 
 Deployed Using Streamlit : <a href = "https://streamlit.io/" > Link </a>
+
 Link for the web app: <a href = "https://aniketnayak994-handling-outlier-web-app-about-me-ifxxaz.streamlit.app/Project" > Link </a>
 
 Topics Covered: 
@@ -14,4 +15,5 @@ Topics Covered:
 ________________________________________________________________________________________________
 
 Email: <a href = "aniketnayak994@gmail.com">Click </a>
+
 LinkedIn:<a href = "https://www.linkedin.com/in/aniket-nayak-b00881194/"> Connect </a>
