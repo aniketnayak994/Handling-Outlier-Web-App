@@ -1,4 +1,4 @@
-### Web application for Outlier Handling with code snippets
+## Web application for Outlier Handling with code snippets
 _______________________________________________________________________________________________
 
 Deployed Using Streamlit : <a href = "https://streamlit.io/" > Link </a>
@@ -11,7 +11,7 @@ Topics Covered:
 - How to treat it using IQR method - Inter quartile range
 
 
-#### Contact me
+### Contact me
 ________________________________________________________________________________________________
 
 Email: <a href = "aniketnayak994@gmail.com">Click </a>
